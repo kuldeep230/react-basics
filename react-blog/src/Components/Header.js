@@ -30,7 +30,7 @@ class Header extends Component {
                 role="img"
                 viewBox="0 0 24 24"
               >
-                <title>Search</title>
+                <title>Searching</title>
                 <circle cx="10.5" cy="10.5" r="7.5" />
                 <path d="M21 21l-5.2-5.2" />
               </svg>

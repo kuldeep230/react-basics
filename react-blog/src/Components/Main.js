@@ -18,7 +18,6 @@ class Main extends Component {
           <ChildCard1 />
           <ChildCard2 />
         </div>
-
         <div className="row">
           <div class="col-md-8">
             <Article1 />
